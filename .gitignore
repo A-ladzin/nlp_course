@@ -1,3 +1,7 @@
+
+#.vec
+*.vec
+
 # node and NPM
 npm-debug.log
 node_modules
