@@ -5,6 +5,8 @@
 #.csv
 *.csv
 
+#.json
+*.json
 
 #.pt
 *.pt
